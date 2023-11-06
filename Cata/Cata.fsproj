@@ -7,6 +7,8 @@
 
     <ItemGroup>
         <Compile Include="List.fs" />
+        <Compile Include="HR.fs" />
+        <Compile Include="Filesystem.fs" />
     </ItemGroup>
 
 </Project>
